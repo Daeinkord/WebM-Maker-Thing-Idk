@@ -37,4 +37,4 @@ Unzip the folder, move it to your downloads and then rename it to "ffmpeg".
 
 
 
-## It's not my code, i just fucking forked it and modified it from the guy that made it. I probably turned it shitty so if you have problems get the original one.
+## It's not my code, i just fucking forked it and modified it from the guy that made it. I probably turned it shitty, so if you have problems get the original one.
